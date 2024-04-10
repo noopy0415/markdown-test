@@ -1,6 +1,24 @@
 # markdown-test
 private-test → subtreeテスト
 
+## Liquidは使えない
+
+{% mac %}
+
+These instructions are pertinent to Mac users.
+
+{% endmac %}
+{% linux %}
+
+ These instructions are pertinent to Linux users.
+
+{% endlinux %}
+{% windows %}
+
+These instructions are pertinent to Windows users.
+
+{% endwindows %}
+
 ## GFM 確認
 
 ### 注釈
